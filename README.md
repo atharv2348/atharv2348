@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter, NodeJS**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 **Android, Flutter**
 
-- 📫 How to reach me **atharvc2022@gmail.com**
+- 📫  **atharvc2022@gmail.com**
 
-- ⚡ Fun fact **I love dogs 🐶**
+- ⚡ **I love dogs 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
